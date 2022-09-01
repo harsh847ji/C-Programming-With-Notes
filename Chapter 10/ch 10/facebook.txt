@@ -1,0 +1,3 @@
+harsh,100000
+kumud,10000
+piyush,20
